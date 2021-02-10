@@ -15,14 +15,14 @@ Welcome to my own capsule. Here you will find some thoughts and articles about t
 
 ## Pages
 
-=> c.gmi		C
-=> cxx.gmi		C++
-=> asm.gmi		Assembly
-=> lisp.gmi		Lisp
-=> unix.gmi		BSD/UNIX
-=> emacs.gmi	GNU Emacs
-=> projects.gmi	My projects
-=> style.gmi	My C style
+=> c/index.gmi			C
+=> cxx/index.gmi		C++
+=> asm/index.gmi		Assembly
+=> lisp/index.gmi		Lisp
+=> unix/index.gmi		BSD/UNIX
+=> emacs/index.gmi		GNU Emacs
+=> projects/index.gmi	My projects
+=> style.gmi			My C style
 
 ## About me
 
@@ -51,6 +51,8 @@ Here are the links you can use to follow me around:
 => https://gitlab.com/AkiraMass			His GitLab page
 => https://dveloppez.com/				And his daughter art site
 
-This capsule is copyrighted under the terms of the BSD 3-Clause License. You can find the terms of the license by visiting the following link.
+## License
+
+This capsule is copyrighted under the terms of the BSD 3-Clause License. You can find the terms of the license by visiting the following link:
 
 => license.gmi See LICENSE
