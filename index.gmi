@@ -15,9 +15,40 @@ Welcome to my own capsule. Here you will find some thoughts and articles about t
 
 ## Pages
 
-=> c.gmi   C
-=> cxx.gmi C++
+=> c.gmi		C
+=> cxx.gmi		C++
+=> asm.gmi		Assembly
+=> lisp.gmi		Lisp
+=> unix.gmi		BSD/UNIX
+=> projects.gmi	My projects
 
 ## About me
 
-I am a student for 42Lyon, IT school
+I am a student for 42Lyon, IT school based in Lyon, France. I work on various personnal projects beside that.
+
+## Some links
+
+### My links
+
+Here are the links you can use to follow me around:
+
+=> https://chiselapp.com/user/JozanLeClerc	My Chisel page
+=> https://github.com/JozanLeClerc			My GitHub page
+=> https://git.jozanleclerc.xyz/jozan		My GitJoe page
+=> https://twitch.tv/jozanleclerc			My Twitch channel (streaming code exclusively)
+=> https://towerofsilence.bandcamp.com/		My Rockabilly band's bandcamp
+=> rbousset@42lyon.fr
+
+### My pals links
+
+=> https://saladslab.karabo.ga			Salad's lab
+=> https://github.com/salaaad2			His GitHub page
+=> https://git.jozanleclerc.xyz/salad	His GitJoe page
+=> https://twitter.com/fellowNwords		And his fun Twitter account
+=> https://inner-fab.com/				Akira's WebGL experiments (even though you should not use WebGL)
+=> https://gitlab.com/AkiraMass			His GitLab page
+=> https://dveloppez.com/				And his daughter art site
+
+This capsule is copyrighted under the terms of the BSD 3-Clause License. You can find the terms of the license by visiting the following link.
+
+=> license.gmi See LICENSE
