@@ -11,4 +11,4 @@
 
 # C++
 
-C++ is pointless and evil. You should stay as far as you can from it. C89 is the way to go. Everything possible in C++ will be reproducible in C, there is no reason to bother.
+C++ is pointless and evil. You should stay as far as you can from it. C89 is the way to go. Everything available in C++ will be reproducible in C, there is no reason to bother.
