@@ -20,7 +20,9 @@ Welcome to my own capsule. Here you will find some thoughts and articles about t
 => asm.gmi		Assembly
 => lisp.gmi		Lisp
 => unix.gmi		BSD/UNIX
+=> emacs.gmi	GNU Emacs
 => projects.gmi	My projects
+=> style.gmi	My C style
 
 ## About me
 
