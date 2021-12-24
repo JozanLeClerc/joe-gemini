@@ -25,7 +25,9 @@ Welcome to my own capsule. Here you will find some thoughts and articles about t
 
 ## About me
 
-I am a student for 42Lyon, IT school based in Lyon, France. I work on various personnal projects beside that.
+I once was a student for 42Lyon, IT school based in Lyon, France, but not anymore. I work on various personnal projects beside that. Also I like rocket science and astrophysics.
+
+=> https://www.42Lyon.fr/	42Lyon
 
 ## Some links
 
@@ -37,7 +39,7 @@ Here are the links you can use to follow me around:
 => https://github.com/JozanLeClerc			My GitHub page
 => https://git.jozanleclerc.xyz/jozan		My GitJoe page
 => https://twitch.tv/jozanleclerc			My Twitch channel (streaming code exclusively)
-=> https://towerofsilence.bandcamp.com/		My Rockabilly band's bandcamp
+=> https://towerofsilence.bandcamp.com/		My Smooth Jazz band's bandcamp
 => rbousset@42lyon.fr
 
 ### My pals links
