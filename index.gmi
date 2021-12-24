@@ -35,18 +35,20 @@ I once was a student for 42Lyon, IT school based in Lyon, France, but not anymor
 
 Here are the links you can use to follow me around:
 
+=> https://jozanofastora.xyz/				HTTP version
+=> https://git.jozanofastora.xyz/			GitJoe, my own git server
 => https://chiselapp.com/user/JozanLeClerc	My Chisel page
 => https://github.com/JozanLeClerc			My GitHub page
-=> https://git.jozanleclerc.xyz/jozan		My GitJoe page
+=> https://git.jozanofastora.xyz/jozan		My GitJoe page
 => https://twitch.tv/jozanleclerc			My Twitch channel (streaming code exclusively)
 => https://towerofsilence.bandcamp.com/		My Smooth Jazz band's bandcamp
-=> rbousset@42lyon.fr
+=> bousset.rudy@gmail.com
 
 ### My pals links
 
 => https://saladslab.karabo.ga			Salad's lab
 => https://github.com/salaaad2			His GitHub page
-=> https://git.jozanleclerc.xyz/salad	His GitJoe page
+=> https://git.jozanofastora.xyz/salad	His GitJoe page
 => https://twitter.com/fellowNwords		And his fun Twitter account
 => https://inner-fab.com/				Akira's WebGL experiments (even though you should not use WebGL)
 => https://gitlab.com/AkiraMass			His GitLab page
