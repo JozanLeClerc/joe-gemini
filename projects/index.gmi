@@ -10,4 +10,22 @@
 
 ```
 
-# My projects
+# My personal projects
+
+These are some of the personal projects I have worked on or that are still being developped:
+
+=> index.gmi	lowbat
+
+a lightweight low battery notifier for Linux and BSD
+
+=> index.gmi	Dergods' Realm II
+
+a raycasting RPG game
+
+=> index.gmi	arch-installer
+
+very basic, FreeBSD-inspired TUI intallation script for Arch Linux, I'm not too proud of this one, but it has been helpful
+
+=> index.gmi	Phobos Aurora
+
+nothing much for now
