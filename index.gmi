@@ -21,8 +21,8 @@ Welcome to my own capsule. Here you will find some thoughts and articles about t
 => unix/index.gmi		BSD/UNIX
 => emacs/index.gmi		GNU Emacs
 => projects/index.gmi	My projects
-=> toughts.gmi			Thoughts
 => style.gmi			My C style
+=> thoughts.gmi			Thoughts
 
 ## About me
 
